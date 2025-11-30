@@ -1,0 +1,15 @@
+trendingYT/*
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+*.log
+*.csv
+*.tsv
+*.xlsx
+*.json
+*.xml
+*.zst
