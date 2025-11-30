@@ -1,4 +1,4 @@
-# Foundations of Computer Science, Project, 2025-26
+# Foundations of Computer Science, Project, MS Data Science, 2025-26
 Trending YouTube DataSet
 
 ## Project Text 
